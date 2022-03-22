@@ -10,5 +10,6 @@ Four questions were asked of the data:
 3) What are the top 5 trending albums in the last year?
 4) What are the top 5 trending songs of the highest-selling composer?
 
-For each question, a .sql file containing the SQL query to be run in an SQLite environment is provided.
+A single .sql file containing the SQL query to be run in an SQLite environment has been provided for each question, except question 2 as it was answered more deeply with two slightly different queries.
+
 The returned records have been imported into MS Excel to create visualizations that answer each of the four questions above. Those visualizations are provided in the file 'Presentation.pdf'
