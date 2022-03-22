@@ -6,8 +6,11 @@ In this project, the database of a hypothetical music store called "Chinook" is 
 Four questions were asked of the data:
 
 Q1: Who is the Sales Support Agent of the Year?
+
 Q2: Which file formats are the most popular ?
+
 Q3: What are the top 5 trending albums in the last year?
+
 Q4: What are the top 5 trending songs of the highest-selling composer?
 
 A single .sql file containing the SQL query to be run in an SQLite environment has been provided to help answer each question, except for Q2 for which there are 2 sql files (it was answered more deeply with two slightly different queries).
